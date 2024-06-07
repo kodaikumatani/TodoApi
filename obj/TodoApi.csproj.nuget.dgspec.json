@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/k_kumatani/workspace/TodoApi/TodoApi.csproj": {}
+  },
+  "projects": {
+    "/Users/k_kumatani/workspace/TodoApi/TodoApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/k_kumatani/workspace/TodoApi/TodoApi.csproj",
+        "projectName": "TodoApi",
+        "projectPath": "/Users/k_kumatani/workspace/TodoApi/TodoApi.csproj",
+        "packagesPath": "/Users/k_kumatani/.nuget/packages/",
+        "outputPath": "/Users/k_kumatani/workspace/TodoApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/k_kumatani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
